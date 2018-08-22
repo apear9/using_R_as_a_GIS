@@ -8,6 +8,8 @@ The seminar was recorded by Tim Macuga from the Australian Research Council Cent
 
 ## Packages
 
+You will need an installation of LaTeX to compile these Beamer slides. For Windows the recommended installation is MikTex. 
+
 Packages required:
 
 - sp
