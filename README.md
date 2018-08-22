@@ -23,4 +23,11 @@ Packages required:
 - gridExtra
 - ggsn
 
+## Data, acknowledgements and citations
 
+I use data from the following sources in the presentation:
+
+- Great_Barrier_Reef_Features shapefile (CCBY 4.0. © Great Barrier Reef Marine Park Authority 2014. Updated data available at http://www.gbrmpa.gov.au/geoportal/)
+- B2, B3, B4, B5 (Landsat-8 image courtesy of the U.S. Geological Survey)
+
+These are stored in the repository in /data. 
