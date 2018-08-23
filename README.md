@@ -30,4 +30,4 @@ I use data from the following sources in the presentation:
 - Great_Barrier_Reef_Features shapefile (CCBY 4.0. © Great Barrier Reef Marine Park Authority 2014. Updated data available at http://www.gbrmpa.gov.au/geoportal/)
 - B2, B3, B4, B5 (Landsat-8 image courtesy of the U.S. Geological Survey)
 
-These are stored in the repository in /data. 
+These are stored in the repository in /data, except for the landsat data which have been put on CloudStor due to excessive size. Public link here: https://cloudstor.aarnet.edu.au/plus/s/8N1OQQIjlvWpcL7. Please download the zip file and extract only the image files into the /data folder. 
